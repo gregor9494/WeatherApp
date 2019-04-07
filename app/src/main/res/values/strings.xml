@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="button_try_again">Try again</string>
+    <string name="connection_error_label">Error while loading data, check your internet connection.</string>
+    <string name="permission_error_label">No permissions granted, application cannot work properly</string>
+    <string name="location_error_label">Error while loading your location</string>
+    <string name="unknown_error_label">Unknown error occurred.</string>
+</resources>

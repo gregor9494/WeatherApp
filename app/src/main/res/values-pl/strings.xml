@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="button_try_again">Spróbuj ponownie</string>
+    <string name="connection_error_label">Nie można pobrać danych, sprawdź swoje połączenie internetowe.</string>
+    <string name="permission_error_label">Nie udzielono odpowiednich uprawnień, aplikacja nie może działać poprawnie.</string>
+    <string name="location_error_label">Nie można pobrać lokalizacji.</string>
+    <string name="unknown_error_label">Wystąpił nieznany błąd.</string>
+</resources>
